@@ -1,6 +1,6 @@
-#Movie Carousel
+# Movie Carousel
 
-##Description
+## Description
 A react app that displays 20 movies from a random genre. If you press the 'Load other movies' it will pick a new random genre from the genre list and search on the omdbapi. 
 
 Each movie is displayed with its poster, and when you hover over it you can press add to favorites to add it to the favorites list below. There you can remove one favorite by clicking the remove from favorites that appears on hover or remove all the favorites from the list by clicking the 'clear all favorites' button.
